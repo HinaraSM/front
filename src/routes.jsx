@@ -19,7 +19,7 @@ import CentroCombate from "./pages/CentroCombate";
 import ListaUsuarios from "./pages/ListaUsuarios/ListaUsuarios";
 import AdminRoute from "./componentes/AdminRoute";
 import CartasAdmin from "./pages/CartasAdmin";
-import PaquetesAdmin from "./pages/PaquetesAdmin";
+import PaquetesAdmin from "./pages/paquetesAdmin";
 import DetalleAdmin from "./pages/DetalleAdmin";
 import DetalleColeccion from "./pages/DetalleColeccion";
 
